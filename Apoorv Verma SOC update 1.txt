@@ -1,0 +1,11 @@
+Apoorv Verma - SOC Update 
+
+I started by revising the basic python syntax and libraries - numpy,pandas,matplotlib etc.
+After that I started watching the lectures in the Andrew NG ML course on coursera.
+In the first three weeks I got the basic idea of machine learning, the cost function, how 
+the gradient descent is used to minimize cost function and various parameters to alter in it
+and linear regression with one variable. In subsequent weeks I got the idea of neural networks -
+neurons and model representation.
+
+Currently I am trying and asignment given by mentor and then will start with the code of the 
+main project.
